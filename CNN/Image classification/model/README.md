@@ -1,4 +1,3 @@
-Here's a project code summary suitable for a README.md file based on the code snippets you've provided:
 
 # Image Classification with CNN
 
@@ -52,17 +51,14 @@ This project implements a Convolutional Neural Network (CNN) for image classific
 
 ## Results
 
-The README should be updated with actual results after running the model, including:
 - Final training and testing accuracy (89%, 82%)
 - Loss and accuracy plots![Screenshot 2024-06-25 153423](https://github.com/pranjalrmcf/Deep-Learning-projects/assets/68674726/0a34c2c1-c2e7-424d-b734-eb2e552358c3)
 - Any insights or observations from the training process
 
 ## Future Improvements
 
-Potential areas for improvement or expansion of the project could be listed here, such as:
 - Experimenting with different model architectures
 - Implementing data augmentation techniques
 - Fine-tuning hyperparameters
 - Expanding to more classes or larger datasets
 
-This summary provides an overview of the project structure and key components. You may want to add more specific details about your dataset, any preprocessing steps, or particular challenges and solutions you encountered during the project.
